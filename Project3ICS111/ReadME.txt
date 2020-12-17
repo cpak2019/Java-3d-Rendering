@@ -1,4 +1,4 @@
-Written by Christian Pak and Jared Choy
+Written by Christian Pak
 at the top of each file is name of person who worked on that file
 
 the project mainly revolves around the class thirdDObj and polygon which are able to load and graphically display 3d objects (in form of stl files)
