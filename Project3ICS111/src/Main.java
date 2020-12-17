@@ -1,5 +1,5 @@
 
-//Written by Christian Pak and Jared Choy
+//Written by Christian Pak
 import java.awt.Color;
 import java.awt.event.KeyEvent;
 import java.io.*; // Import the java input / output library
