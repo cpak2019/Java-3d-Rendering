@@ -1,5 +1,4 @@
 
-//written by Jared Choy
 import java.awt.Color;
 import java.util.*;
 
